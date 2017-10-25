@@ -1,6 +1,8 @@
 /* The useless app */
 
 #include <iostream>
+#include <stdlib.h>
+#include <stdio.h>
 
 using namespace std;
 
