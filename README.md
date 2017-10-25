@@ -1,2 +1,2 @@
-# the-useless-app
+# The Useless App
 Shutdown your computer.
