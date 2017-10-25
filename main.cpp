@@ -1,3 +1,5 @@
+/* The useless app */
+
 #include <iostream>
 
 using namespace std;
