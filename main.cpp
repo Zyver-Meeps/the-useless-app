@@ -1,4 +1,11 @@
-/* The useless app */
+/* The useless app 
+* github.com/zyver-meeps/the-useless-app/
+* Made by Enzo Gladiadis
+* Donate:
+* Bitcoin Addess: 1ArmdWvv6ZUoAYWKyBE9uX44DnBNbUEdXX
+* Litecoin Addess: LcGKr4A52domx8dnwA33DPSY8cFv7fNebu
+* ETH Address: 0xDe55aB3BBf21818Cea51D3038E7B80F4C2E29067
+*/
 
 #include <iostream>
 #include <stdlib.h>
